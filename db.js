@@ -4,7 +4,8 @@ module.exports = function() {
 
 	this.routes = {
 		"getListVinyls":fakeObj.generateFakeVinyls(),
-		"users":[],
+		"users":[{"email": "teste", "firstName": "teste", "lastName": "teste", "password": "teste", "phone": 64646767764646,"username":"teste","id": 1
+		  }],
 		"users/login":[],
 		"payment":[]
 	}
