@@ -21,4 +21,3 @@ server.listen(4000, function () {
   console.log('Rodando Json Server!!');
 })
 
-
