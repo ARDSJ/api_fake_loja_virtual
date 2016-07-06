@@ -23,3 +23,10 @@ node server_img.js &
 
 O **server_img.js** está configurado para trabalhar na porta 4000, enquanto o **server_img.js** na porta 5000.
 
+##Tecnologias utilizadas
+
+* faker
+* ip
+* json-server
+* node-static
+* sleep
