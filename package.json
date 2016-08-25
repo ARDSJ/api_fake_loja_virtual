@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Amauri Rodrigues de Souza Jr",
+  "author": "Amauri Rodrigues de Souza Junior",
   "license": "ISC",
   "dependencies": {
     "faker": "^3.1.0",
